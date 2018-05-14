@@ -128,3 +128,8 @@ def valid_number( spot, values ):
     return False
     
   values[ spot - 1 ] = char
+
+
+if __name__ == '__main__':
+  game = tictactoe()
+  game.play()
