@@ -1,3 +1,6 @@
+
+moved to gitlab.com/ian_g
+
 The classic game of tic tac toe  
 Everybody loves it  
 
